@@ -1,2 +1,2 @@
 # client
-client that runs the social media | real
+The frontend & backend combined into a client for easy usage and access.
