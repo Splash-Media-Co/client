@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center">Frontend clients for Splash</h1>
-<p align="center">One client to rule them all.</p>
+<p align="center">These are all the public AND private versions of the Splash client. This may include unofficial clients and very secret builds (don't worry, the repo's private).</p>
